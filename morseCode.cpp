@@ -42,7 +42,5 @@ int main() {
         }
         j++;
     }
-    Beep(500, 50);
-
     return 0;
 }
